@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:id="@+id/reL9">
+
+    <ImageView
+        android:id="@+id/img9"
+        style="@style/imgStyle"
+        android:src="@drawable/doberman"/>
+    <TextView
+        android:id="@+id/txt9"
+        style="@style/txtStyle"
+        android:text="@string/dog10" />
+
+</RelativeLayout>
