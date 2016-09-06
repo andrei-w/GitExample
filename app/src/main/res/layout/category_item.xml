@@ -3,104 +3,50 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
-
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
-
-
             <include layout="@layout/first_dog" />
-
             <View
-
-
                 android:layout_width="match_parent"
-
                 android:layout_height="5dp"/>
-
-
             <include layout="@layout/second_dog" />
-
-
             <View
-
                 android:layout_width="match_parent"
-
                 android:layout_height="5dp"/>
-
-
             <include layout="@layout/third_dog" />
-
-
             <View
-
                 android:layout_width="match_parent"
-
                 android:layout_height="5dp"/>
-
-
             <include layout="@layout/fourth_dog" />
-
-
             <View
-
                 android:layout_width="match_parent"
-
                 android:layout_height="5dp"/>
-
-
             <include layout="@layout/fifth_dog" />
-
             <View
-
                 android:layout_width="match_parent"
-
                 android:layout_height="5dp"/>
-
             <include layout="@layout/sixth" />
-
             <View
-
                 android:layout_width="match_parent"
-
                 android:layout_height="5dp"/>
-
             <include layout="@layout/seventh" />
-
             <View
-
                 android:layout_width="match_parent"
-
                 android:layout_height="5dp"/>
-
             <include layout="@layout/eigth" />
-
             <View
-
                 android:layout_width="match_parent"
-
                 android:layout_height="5dp"/>
-
-
             <include layout="@layout/ninth" />
-
             <View
-
                 android:layout_width="match_parent"
-
                 android:layout_height="5dp"/>
-
             <include layout="@layout/tenth" />
-
         </LinearLayout>
-
     </ScrollView>
-
-
-
 </LinearLayout>
