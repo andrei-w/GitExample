@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">GitExample</string>
     <string name="intro">Hello from the DragonBoard! </string>
+    <string name="dog1">Cehoslovakian Wolf Dog</string>
+    <string name="dog2">Romanian Sheperd Dog</string>
+    <string name="dog3">German Shepperd</string>
+    <string name="dog4">Kangal</string>
+    <string name="dog5">Rottweiler</string>
+    <string name="dog6">Golden Retriever</string>
+    <string name="dog7">Labrador Retriever</string>
+    <string name="dog8">Australian Cattle</string>
+    <string name="dog9">Belgian Malinois</string>
+    <string name="dog10">Doberman</string>
+    <string name="title">Judogi Champion</string>
+    <string name="description"> \t Judogi Champion
+        este un costum de Judo de foarte buna calitate,
+    confectionat din bumbac 100%, cu o greutate de 900g/mp. Este un
+        costum de judo utilizabil in antrenament si competitii. </string>
+    <string name="price">Pret: 290 lei</string>
 </resources>

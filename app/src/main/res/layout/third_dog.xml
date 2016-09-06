@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:id="@+id/reL3">
+
+    <ImageView
+        android:id="@+id/img3"
+        style="@style/imgStyle"
+        android:src="@drawable/german_shepperd" />
+    <TextView
+        android:id="@+id/txt3"
+        android:text="@string/dog3"
+        style="@style/txtStyle"
+        />
+</RelativeLayout>
